@@ -1,4 +1,4 @@
-# ProgettoS2iJobSearch
+# ProgettoTechNews
 
 Questo progetto è stato creato con  [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
